@@ -13,6 +13,10 @@
 		ED9CA134260CB48500E8542D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED9CA132260CB48500E8542D /* Main.storyboard */; };
 		ED9CA136260CB48600E8542D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED9CA135260CB48600E8542D /* Assets.xcassets */; };
 		ED9CA139260CB48600E8542D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED9CA137260CB48600E8542D /* LaunchScreen.storyboard */; };
+		ED9CA142260CB5DF00E8542D /* arikabe.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = ED9CA141260CB5DF00E8542D /* arikabe.jpeg */; };
+		ED9CA145260CB5F500E8542D /* madoka.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = ED9CA144260CB5F500E8542D /* madoka.jpeg */; };
+		ED9CA148260CB5FD00E8542D /* moomin.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = ED9CA147260CB5FD00E8542D /* moomin.jpeg */; };
+		ED9CA14B260CB60700E8542D /* wakaru.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = ED9CA14A260CB60700E8542D /* wakaru.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +28,10 @@
 		ED9CA135260CB48600E8542D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ED9CA138260CB48600E8542D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ED9CA13A260CB48600E8542D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ED9CA141260CB5DF00E8542D /* arikabe.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = arikabe.jpeg; sourceTree = "<group>"; };
+		ED9CA144260CB5F500E8542D /* madoka.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = madoka.jpeg; sourceTree = "<group>"; };
+		ED9CA147260CB5FD00E8542D /* moomin.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = moomin.jpeg; sourceTree = "<group>"; };
+		ED9CA14A260CB60700E8542D /* wakaru.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wakaru.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +70,11 @@
 				ED9CA132260CB48500E8542D /* Main.storyboard */,
 				ED9CA135260CB48600E8542D /* Assets.xcassets */,
 				ED9CA137260CB48600E8542D /* LaunchScreen.storyboard */,
+				ED9CA141260CB5DF00E8542D /* arikabe.jpeg */,
 				ED9CA13A260CB48600E8542D /* Info.plist */,
+				ED9CA144260CB5F500E8542D /* madoka.jpeg */,
+				ED9CA147260CB5FD00E8542D /* moomin.jpeg */,
+				ED9CA14A260CB60700E8542D /* wakaru.jpeg */,
 			);
 			path = SlideShowApp3;
 			sourceTree = "<group>";
@@ -124,9 +136,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ED9CA148260CB5FD00E8542D /* moomin.jpeg in Resources */,
 				ED9CA139260CB48600E8542D /* LaunchScreen.storyboard in Resources */,
+				ED9CA145260CB5F500E8542D /* madoka.jpeg in Resources */,
 				ED9CA136260CB48600E8542D /* Assets.xcassets in Resources */,
 				ED9CA134260CB48500E8542D /* Main.storyboard in Resources */,
+				ED9CA142260CB5DF00E8542D /* arikabe.jpeg in Resources */,
+				ED9CA14B260CB60700E8542D /* wakaru.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
